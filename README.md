@@ -5,8 +5,7 @@ This package contains a simulation of the [ANYmal B robot](https://www.anybotics
 
 URDF license : [anymal_b_simple_description](https://github.com/ANYbotics/anymal_b_simple_description)
 
-[![ANYmal B Robot Description](doc/anymal_b_rviz.png)](doc/anymal_b_rviz.png)
-
+![ANYmal B Robot Description](doc/anymap_robot_rviz.png)
 ## Usage
 
 Load the ANYmal description to the ROS parameter server:
